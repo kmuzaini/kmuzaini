@@ -63,5 +63,5 @@ Dive into my repositories to explore my studies, projects, and collaborative wor
 ### • GitHub Stats
 <p aligh="left">
   <img align="left" alt="kmuzaini's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kmuzaini&count_private=true&show_icons=true&locale=en&theme=calm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmuzainir&theme=calm&show_icons=true&locale=en&layout=compact&hide=tcl"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmuzaini&theme=calm&show_icons=true&locale=en&layout=compact&hide=tcl"/>
 </p>
