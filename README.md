@@ -60,6 +60,10 @@ Dive into my repositories to explore my studies, projects, and collaborative wor
   <!-- Add more tools here -->
 </p>
 
+#### Browsers
+
+![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+
 ### • GitHub Stats
 <p aligh="left">
   <img align="left" alt="kmuzaini's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kmuzaini&count_private=true&show_icons=true&locale=en&theme=calm">
