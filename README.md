@@ -1,6 +1,6 @@
 # Hello, World! 👋 I'm Khalid Almuzaini
 
-Navigating through the intricate realms of **Cybersecurity** and **Artificial Intelligence** (AI), I, Khalid Almuzaini, immerse myself in the exploration and enhancement of digital and intelligent worlds. My journey is carved by a deep-seated passion for uncovering novel solutions in the cybersecurity landscape and leveraging AI to fortify digital defenses and innovate intelligent systems.
+Navigating through the intricate realms of **Cyber Security** and **Artificial Intelligence** (AI), I, Khalid Almuzaini, immerse myself in exploring and enhancing digital and intelligent worlds. My journey is carved by a deep-seated passion for uncovering novel solutions in the cybersecurity landscape and leveraging AI to fortify digital defenses and innovate intelligent systems.
 
 🚀 **Subdomains of Expertise in Cybersecurity:**
 - **Network Security:** Defending communication pathways from intrusive entities.
@@ -12,7 +12,7 @@ Navigating through the intricate realms of **Cybersecurity** and **Artificial In
 🤖 **AI Endeavors:**
 - **Machine Learning:** Developing models that enhance predictive accuracy while ensuring security.
 - **Neural Networks:** Crafting and refining neural networks to enhance cybersecurity mechanisms.
-- **AI in Cybersecurity:** Deploying intelligent systems to predict, analyze, and mitigate cybersecurity threats.
+- **AI in Cyber Security:** Deploying intelligent systems to predict, analyze, and mitigate cybersecurity threats.
 
 🛠 **Technological Proficiency:** Python, MATLAB, Machine Learning Libraries, Cybersecurity Tools  
 🌱 **Ongoing Learning:** Advanced Cybersecurity Tactics, Ethical Hacking, Deep Learning, AI in Security Solutions  
